@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+.form{
+    background-color: #bcf3fa;
+    border-radius: 10px;
+    
+}
+
+form{
+    background-color: aliceblue;
+    padding: 40px;
+    margin: 120px;
+    border-radius: 8px;
+}
+
+button{
+    padding: 7px;
+    font-weight: bolder;
+}
